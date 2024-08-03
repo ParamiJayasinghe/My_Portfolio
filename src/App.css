@@ -1,3 +1,5 @@
+/* Global CSS */
+
 body{
     margin: 0;
     font-family: "Roboto", sans-serif;
@@ -48,5 +50,47 @@ p{
     -moz-transition:background-color 0.5s;
     -ms-transition:background-color 0.5s;
     -o-transition:background-color 0.5s;
+}
+
+.btn-outline-primary{
+    color: var(--primary);
+    background-color: var(--white);
+    border: 1px solid var(--primary);
+}
+
+.btn-outline-primary:hover{
+    color: var(--white);
+    background-color: var(--primary);
+}
+
+.btn-primary {
+    color: var(--white);
+    background-color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+.btn-primary:hover {
+    color: var(--primary);
+    background-color: var(--white);
+}
+
+.btn-github{
+    color: var(--white);
+    background-color: var(--github);
+    border: var(--github);
+    direction: flex;
+    flex-direction: row ;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 2px 0 rgba(16, 24, 40, 0.95);
+    gap: 16px;
+}
+
+.btn-github:hover{
+    color: var(--github);
+    background-color: var(--white);
 
 }
+
+/* Global Section ends here */
+
