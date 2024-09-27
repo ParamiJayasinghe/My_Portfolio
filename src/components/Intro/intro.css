@@ -51,14 +51,4 @@
     border-radius: 2rem;
 }
 
-@media screen(max-width:840px){
 
-    .my{
-        right: -10vw;
-    }
-
-    .introContent{
-        font-size: 10vw;
-    }
-    
-}
