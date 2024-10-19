@@ -23,6 +23,8 @@ const Works=() =>{
             <img src={Portfolio6} alt="portfolio6" className="worksImg" />
 
         </div>
+
+        <button className="workBtn">See more</button>
        </section>
     )
 }
