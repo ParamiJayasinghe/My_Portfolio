@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #works{
     margin: 0 auto;
     min-height: calc(100vh- 4 rem);
@@ -46,7 +46,8 @@
     border-radius: 2rem;
     font-size: 1rem;
     background-color: white;
-=======
+}
+
 #works{
     margin: 0 auto;
     min-height: calc(100vh- 4 rem);
@@ -84,5 +85,4 @@
     object-fit: cover;
     height: 20rem;
     margin: 0.5rem;
->>>>>>> c2acc960b818c5c2e846eb3c0892fd92286a440d
 }
