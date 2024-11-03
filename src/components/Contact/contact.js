@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from "react";
 import './contact.css';
 import facebook from '..//..//images/facebook.png';
@@ -52,26 +51,4 @@ const Contact = () => {
     ) 
 }
 
-=======
-import React from "react";
-
-const Contact = () => {
-    return(
-        <section className="contactPage">
-            <div id="myClients">
-
-            </div>
-
-            <div id="cintactMe">
-
-
-            </div>
-
-
-        </section>
-    
-    ) 
-}
-
->>>>>>> c2acc960b818c5c2e846eb3c0892fd92286a440d
 export default Contact
