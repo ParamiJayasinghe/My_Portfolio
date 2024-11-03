@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #skills{
     overflow: hidden;
     width: 100vw;
@@ -51,7 +51,7 @@
 .skillBarText{
     font-size: 0.9rem;
     font-weight: 200;
-=======
+}
 #skills{
     overflow: hidden;
     width: 100vw;
@@ -104,5 +104,4 @@
 .skillBarText{
     font-size: 0.9rem;
     font-weight: 200;
->>>>>>> c2acc960b818c5c2e846eb3c0892fd92286a440d
 }
